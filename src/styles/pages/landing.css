@@ -80,17 +80,11 @@
   background: #96feff;
 }
 
-/* @media (max-width: 1200px) {
-  :root {
-    font-size: 62.5%;
-  }
-} */
-
 @media (max-width: 1200px) {
   #page-landing .content-wrapper {
     max-width: 600px;
 
-    background: url("../../images/landing.svg") no-repeat 90% 15%;
+    background: url("../../images/landing.svg") no-repeat 95% 30%;
     background-size: 55%;
   }
 }
@@ -99,8 +93,8 @@
   #page-landing .content-wrapper {
     max-width: 500px;
 
-    background: url("../../images/landing.svg") no-repeat 90% 15%;
-    background-size: 50%;
+    background: url("../../images/landing.svg") no-repeat 90% 35%;
+    background-size: 70%;
   }
 }
 
