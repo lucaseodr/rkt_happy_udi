@@ -38,8 +38,6 @@ function OrphanagesMap () {
       <Link to="" className="create-orphanage">
         <FiPlus size="26" color="#fff" />
       </Link>
-
-     
     </div>
   )
 }
